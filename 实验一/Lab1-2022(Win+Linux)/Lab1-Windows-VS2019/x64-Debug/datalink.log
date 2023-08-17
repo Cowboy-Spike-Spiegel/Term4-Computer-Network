@@ -1,0 +1,10 @@
+﻿  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31106.2 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /ZI /JMC /W3 /WX- /diagnostics:column /sdl /Od /D _MBCS /D _MBCS /D _CRT_SECURE_NO_WARNINGS /GF /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /FAs /Fa"x64-Debug\\" /Fo"x64-Debug\\" /Fd"x64-Debug\vc143.pdb" /external:W3 /Gd /TC /FC /errorReport:prompt /utf-8 crc32.c datalink.c getopt.c lprintf.c protocol.c
+  crc32.c
+  datalink.c
+  getopt.c
+  lprintf.c
+  protocol.c
+  正在生成代码...
+  datalink.vcxproj -> D:\Course\Term4 计算机网络\实验\Lab1-2022(Win+Linux)\Lab1-Windows-VS2019\x64-Debug\datalink.exe
